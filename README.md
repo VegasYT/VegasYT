@@ -48,8 +48,8 @@
 <!-- Статистика -->
 <h2>📊 Статистика</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VegasYT&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegasYT&layout=donut&theme=radical" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VegasYT&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegasYT&layout=donut&theme=tokyonight" alt="GitHub Stats" height="200px" />
 </p>
 
 
