@@ -56,10 +56,13 @@
 <hr>
 
 
-
 <!-- Footer -->
 <p align="center">
   <em>❤️ Спасибо за посещение моего профиля!</em>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VegasYT&label=Profile%20Views&color=6&pretty=true" />
 </p>
 
 ###
