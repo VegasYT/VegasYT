@@ -18,7 +18,7 @@
 </p>
 
 
-<!-- Картинка или гиф -->
+<!-- Гифка -->
 <p align="center">
  <img width="800" src="github-snake.svg" alt="snake"/>
 </p>
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegasYT&layout=donut&theme=tokyonight" alt="GitHub Stats" height="200px" />
 </p>
 
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VegasYT&bg_color=0d1118&color=c9d1d7&line=ff79c5&point=79dafa&area=true&hide_border=true)](https://github.com/VegasYT)
 <hr>
 
 
@@ -64,5 +64,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=VegasYT&label=Profile%20Views&color=6&pretty=true" />
 </p>
+
 
 ###
