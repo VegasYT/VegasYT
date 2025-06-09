@@ -25,11 +25,9 @@
 
 <hr>
 
-<!-- Секция о себе -->
-<h2>👨‍💻 О себе</h2>
-<ul>
-  <li> <strong>Django, FastAPI, Aiogram, Telethon</strong> </li>
-</ul>
+<!-- Технологии -->
+<h2>🛠️Технологии</h2>  
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,tensorflow,vscode,postman,ps&theme=dark" />
 
 <br>
 
