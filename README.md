@@ -53,6 +53,12 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VegasYT&bg_color=0d1118&color=c9d1d7&line=ff79c5&point=79dafa&area=true&hide_border=true)](https://github.com/VegasYT)
 <hr>
 
+<h2>Сертификаты</h2>
+<p align="start">
+  <a href="./Сертификаты.pdf">
+    <img src="https://img.shields.io/badge/📜_Cертификаты_по_хакатонам-4CAF50?style=for-the-badge" alt="Certificates"/>
+  </a>
+</p>
 
 <!-- Footer -->
 <p align="center">
