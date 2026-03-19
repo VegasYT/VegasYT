@@ -8,14 +8,14 @@
 <!-- Краткая информация -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Backend%20Developer-%233776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-Machine%20Learning-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> -->
 </p>
 
 
 <!-- Описание -->
-<p align="center">
+<!-- <p align="center">
   <em>Пока что пустовато 😔</em>
-</p>
+</p> -->
 
 
 <!-- Гифка -->
