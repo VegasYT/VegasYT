@@ -55,7 +55,7 @@
 
 <h2>Сертификаты</h2>
 <p align="start">
-  <a href="./Сертификаты.pdf">
+  <a href="./Сертификаты_с_хакатонов">
     <img src="https://img.shields.io/badge/📜_Cертификаты_по_хакатонам-4CAF50?style=for-the-badge" alt="Certificates"/>
   </a>
 </p>
