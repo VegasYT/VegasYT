@@ -27,7 +27,7 @@
 
 <!-- Технологии -->
 <h2>🛠️Технологии</h2>  
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,sqlite,git,docker,tensorflow,vscode,postman,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,sqlite,git,docker,kafka,tensorflow,vscode,postman,ps&theme=dark" />
 
 <br>
 
